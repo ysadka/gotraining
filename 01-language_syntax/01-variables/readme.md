@@ -6,7 +6,6 @@ Variables are at the heart of the language and provide the ability to read from 
 
 * When variables are being declared to their zero value, use the keyword var.
 * When variables are being declared and initialized, use the short variable declaration operator.
-* Escape analysis is used to determine when a value escapes to the heap.
 
 ## Links
 
